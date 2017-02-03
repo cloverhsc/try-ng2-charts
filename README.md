@@ -66,3 +66,5 @@ export class AppModule { }
 
 # 架構：
 - 主要是用angular-cli 生一個 component 叫做 line-chart 然後在預設的app.component.html加入 line-chart component，產生的line chart程式碼是ng2-charts官網上面的程式碼。主要目的是讓ng2-chart能夠在angular2 專案上面執行。
+
+- ref: [ng2-chart 官網](http://valor-software.com/ng2-charts/#top)
